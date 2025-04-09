@@ -1,0 +1,2 @@
+### Конвертация даты в день недели
+GET http://api/conversion/dayoftheweek/2023-10-15

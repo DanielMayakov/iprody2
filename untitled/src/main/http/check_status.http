@@ -1,0 +1,2 @@
+### Проверка статуса сервера
+GET http://api/health/check

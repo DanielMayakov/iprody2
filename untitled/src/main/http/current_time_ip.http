@@ -1,0 +1,2 @@
+### Текущее время по IP-адресу
+GET http://api/time/current/ip?ip=8.8.8.8
