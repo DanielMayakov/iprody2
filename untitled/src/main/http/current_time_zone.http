@@ -1,0 +1,2 @@
+### Текущее время по временной зоне
+GET http://api/time/current/zone?timezone=Europe/Moscow
