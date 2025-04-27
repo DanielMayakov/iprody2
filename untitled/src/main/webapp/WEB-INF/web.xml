@@ -1,0 +1,11 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.0">
+    <servlet>
+        <servlet-name>BookServlet</servlet-name>
+        <servlet-class>com.example.library.servlet.BookServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>BookServlet</servlet-name>
+        <url-pattern>/api/books</url-pattern>
+    </servlet-mapping>
+</web-app>
